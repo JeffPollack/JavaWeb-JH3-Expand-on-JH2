@@ -1,0 +1,27 @@
+JH3 worksheet
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH3:
+Discussion board containing your entry: Sharings for JH3 
+Date of your Entry: 10/2/2016
+Subject Line of your entry: RE: Sharings for JH3
+
+
+***************** JSP Mortgage Calculator    *****************
+
+JING URL demoing your Program.
+Any optional comments regarding this problem.
+
+I made two JSP files for the HTML display on this assignment. 
+index.jsp is the file for the form and interestJSP.jsp is the output display that takes info from index.jsp
+
+http://screencast.com/t/oDbH06HVT3
+____________________________________
+
+***************** JSP One-Liner Program    *****************
+
+JING URL demoing your Program.
+Any optional comments regarding this problem.
+http://screencast.com/t/7uHZiM4N0r
+____________________________________
